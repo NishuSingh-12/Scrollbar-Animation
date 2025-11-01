@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: rgb(167, 236, 98);
+  font-family: Arial, sans-serif;
+}
+
+#scrollbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 14px;
+  width: 0%;
+  background: linear-gradient(90deg, #0b8, #070);
+  z-index: 9999;
+  transition: width 120ms linear;
+}
+
+.container {
+  max-width: 400px;
+  margin: 80px auto;
+  text-align: center;
+  padding-bottom: 200px;
+}
+.cards {
+  background-color: yellowgreen;
+  margin: 10px;
+  font-size: 4rem;
+  padding: 60px;
+  border-radius: 10px;
+  color: green;
+  box-shadow: 4px 4px 20px 8px rgba(0, 0, 0, 0.1);
+}
