@@ -4,11 +4,11 @@ A simple project built with HTML, CSS, and JavaScript that visually indicates ho
 
 ## 📸 Screenshot
 
-![Vowel Counter Screenshot](09_Vowel_Counter/screenshot.png)
+![Vowel Counter Screenshot](screentshot.png)
 
 ## 🌍 Live Demo
 
-[🔗 View Project on Netlify](https://vowelscounterr.netlify.app/)
+[🔗 View Project on Netlify](https://scrollbaranimation.netlify.app/)
 
 ## 👩‍💻 Author
 
